@@ -10,8 +10,8 @@ I am a proactive developer focused on building efficient, logical, and well-stru
 * **STEM Project: Electra** – Collaborated on designing and assembling a functional electric vehicle.
 
 ### 🛠️ Technical Skills
-* **Languages:** C++ (Emphasis on OOP), HTML[cite: 6].
-* **Concepts:** Data Structures, Dynamic Arrays, Memory Management, CRUD Operations[cite: 6].
+* **Languages:** C++ (Emphasis on OOP), HTML.
+* **Concepts:** Data Structures, Dynamic Arrays, Memory Management, CRUD Operations.
 * **Tools:** Git/GitHub, Microsoft Office, Canva.
 
 ### 📂 Featured Project
