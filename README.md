@@ -1,8 +1,7 @@
 # Emmanuel E. López Bonet 
 
 ### Computer Science Student | University of Puerto Rico, Mayagüez (UPRM)
-* I am a software developer focused on engineering efficient, logical, and well-structured solutions. 
-* My current technical focus involves mastering C++ and Object-Oriented Programming (OOP) to solve complex data challenges.
+* I am a software developer focused on engineering efficient, logical, and well-structured solutions.  My current technical focus involves mastering C++ and Object-Oriented Programming (OOP) to solve complex data challenges.
 ---
 
 ### ProfessionalAchievements
