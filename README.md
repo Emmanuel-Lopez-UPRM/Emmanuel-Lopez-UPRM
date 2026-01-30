@@ -6,7 +6,7 @@
 ---
 
 ### ProfessionalAchievements
-* **3rd Place Winner** – ACM-CS Programming Competition 2025-2026. 🚀
+* **3rd Place Winner** – ACM-CS Programming Competition 2025-2026.
 * **STEM Project: Electra** – Collaborated on designing and assembling a functional electric vehicle.
 
 ### Technical Skills
