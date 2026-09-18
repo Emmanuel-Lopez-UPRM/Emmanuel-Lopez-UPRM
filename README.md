@@ -16,7 +16,7 @@
 
 ### Featured Project
 **[Shopping Cart System](https://github.com/Emmanuel-Lopez-UPRM/Shopping-Cart-CPP)**
-**[Smart Academic Task Planner]([https://github.com/Emmanuel-Lopez-UPRM/Smart-Academic-Task-Planner-Data-Structure.git]**
+**[Smart Academic Task Planner]([https://github.com/Emmanuel-Lopez-UPRM/Smart-Academic-Task-Planner-Data-Structure.git])**
 * A C++ application using OOP and dynamic vectors to manage a real-time inventory system.
 
 ---
